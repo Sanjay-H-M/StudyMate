@@ -78,8 +78,3 @@ The first time you build the index, downloading and loading the model may take 1
 The embedding model can be changed by setting the EMBED_MODEL environment variable.
 If FAISS fails on GPU, use faiss-cpu.
 ---
-📜 License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
----
-If you want, I can also generate a **`requirements.txt`** file from this so people can just run `pip install -r requirements.txt` instead of typing the long install command. That will make your GitHub repo neater.
